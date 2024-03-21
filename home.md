@@ -2,13 +2,16 @@
 title: 超级首页
 description: 
 published: true
-date: 2024-03-21T11:40:42.144Z
+date: 2024-03-21T11:41:07.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T11:38:42.864Z
 ---
 
 # 一个离谱的维基
+> 以下内容可能含有个人观点，仅供参考
+{.is-warning}
+
 ## 历史
 这个想法在 2024.3.21 下午 18:00 左右被提出，专门用于记录学校内的诡异，灵魂事件。
 
