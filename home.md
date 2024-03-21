@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-03-21T14:08:34.005Z
+date: 2024-03-21T14:16:59.213Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T11:38:42.864Z
@@ -27,3 +27,4 @@ dateCreated: 2024-03-21T11:38:42.864Z
 3. 有人和技术问题请在下方评论。
 
 # 帮助
+请参阅 **[帮助](/help)**
