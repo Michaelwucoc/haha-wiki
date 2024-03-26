@@ -2,7 +2,7 @@
 title: 小太妹 - 方韵涵 Heidi
 description: 
 published: true
-date: 2024-03-26T01:57:20.448Z
+date: 2024-03-26T01:57:39.184Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T12:35:57.206Z
@@ -17,7 +17,7 @@ dateCreated: 2024-03-21T12:35:57.206Z
 
 小太妹，全称 `方韵涵 Heidi`。由于长像非常 *非常像鞋拔子^1^* 而出名，外号在大约2024.3.21左右流行开来。
 
-![1091711018293_.pic.jpg](/1091711018293_.pic.jpg)
+
 
 # 历史事迹
 
